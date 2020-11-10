@@ -1,0 +1,1 @@
+This is skobermochas first git project!
